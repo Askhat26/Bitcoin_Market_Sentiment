@@ -1,0 +1,8 @@
+,Size USD,Size USD,Size USD,Closed PnL,Closed PnL
+,mean,median,std,mean,std
+Classification,,,,,
+Extreme Fear,5349.73,766.15,22306.83,34.54,1136.06
+Extreme Greed,3112.25,500.05,11062.0,67.89,766.83
+Fear,7816.11,735.96,51914.86,54.29,935.36
+Greed,5736.88,555.0,30533.42,42.74,1116.03
+Neutral,4782.73,547.66,37461.88,34.31,517.12

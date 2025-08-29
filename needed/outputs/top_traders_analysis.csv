@@ -1,0 +1,11 @@
+Classification,Is_Top_Trader,Closed PnL,Size USD,Account
+Extreme Fear,False,21.32,5709.31,16081
+Extreme Fear,True,74.49,4262.62,5319
+Extreme Greed,False,44.12,2884.39,37404
+Extreme Greed,True,411.52,6405.48,2588
+Fear,False,34.29,9134.08,44617
+Fear,True,106.12,4401.25,17220
+Greed,False,30.55,5557.43,43835
+Greed,True,125.35,6953.05,6468
+Neutral,False,23.99,5212.84,29538
+Neutral,True,71.71,3223.51,8148
